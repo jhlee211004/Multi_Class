@@ -1,4 +1,4 @@
-# Multi_Class
+# Multi_Class results
 ## model_compare.py
 Model Compare <br>
 ================= SUMMARY ================= <br>
