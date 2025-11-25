@@ -248,7 +248,7 @@ Fitting 3 folds for each of 20 candidates, totalling 60 fits<br>
 Best RF parameters: {'max_depth': 60, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 513}<br>
 
 RandomForest Tuned Accuracy: 0.7546206896551724<br>
- 　　　　             precision    recall  f1-score   support
+ 　　　　     　    　    precision    　recall 　 f1-score 　  support
 
 
           -1       0.71      0.91      0.80      2500
@@ -349,9 +349,9 @@ RandomForest Tuned Accuracy: 0.7546206896551724<br>
           94       0.59      0.60      0.59        50
 
 <br>
-    accuracy         　　　　                  0.75      7250<br>
-   macro avg       0.79      0.67      0.72      7250<br>
-weighted avg       0.76      0.75      0.74      7250<br>
+    accuracy         　　　　　  　　       　     　    0.75  　    7250<br>
+   macro avg 　 　     0.79 　     0.67   　   0.72   　   7250<br>
+weighted avg 　      0.76  　    0.75  　    0.74  　    7250<br>
 
 
 <br>
@@ -365,7 +365,7 @@ Best GB parameters: {'learning_rate': np.float64(0.021616722433639893), 'max_dep
 
 
 GradientBoosting Tuned Accuracy: 0.7253793103448276<br>
-     　　　　         precision    recall  f1-score   support
+     　　　　  　　　       precision 　   recall　  f1-score　   support
 
 
           -1       0.64      0.94      0.76      2500
@@ -466,7 +466,7 @@ GradientBoosting Tuned Accuracy: 0.7253793103448276<br>
           94       0.64      0.56      0.60        50
 
 <br>
-    accuracy       　　　　                    0.73      7250<br>
-   macro avg       0.80      0.61      0.69      7250<br>
-weighted avg       0.75      0.73      0.71      7250
+    accuracy      　　 　　　　　           　　         0.73   　   7250<br>
+   macro avg   　　    0.80   　   0.61 　     0.69    　  7250<br>
+weighted avg   　    0.75    　  0.73　      0.71  　    7250
 
